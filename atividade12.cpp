@@ -61,7 +61,7 @@
 //  4- x = max (v,1)
 //      7
 //  5-7
-
+// pg 8) 12 vezes
 // 2)
 
 #include <iostream>
